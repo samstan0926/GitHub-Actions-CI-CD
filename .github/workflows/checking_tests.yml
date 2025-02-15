@@ -4,7 +4,7 @@ on:
   pull_request:
     branches:
       - develop
-      - staging
+
 
 jobs:
   test:
@@ -25,7 +25,7 @@ jobs:
       
       - name: Build App
         run: npm run build
-
+        
       - name: Run tests
-        run: npm run test
+        run: npx cypress run --component
 
