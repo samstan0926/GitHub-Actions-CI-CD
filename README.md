@@ -5,11 +5,7 @@
   ![alt text](<imgs/Screenshot 2025-02-15 003844.png>)
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  ## Table of Contents
 
-- [License](#license)
-  
-  
   ## License
   
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), 
