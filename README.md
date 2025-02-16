@@ -1,10 +1,14 @@
-# Tech Quiz Test Suite
+# Github Actions CI/CD Setup
   ## Description
-  I wrote tests for this application that gives you the option to start a quiz, then asks you 10 python questions.
-  Walkthrough Video: https://drive.google.com/file/d/1qsyEKcLvljaps57JjgLJXTxiOt5WPJpl/view?usp=sharing
+  I set up Github Actions that run tests when a pull request is being made into the develop branch and deploys to Render when a pull request is made to the main branch for a website that asks you 10 python questions.
+  ![alt text](<imgs/Screenshot 2025-02-15 003516.png>)
+  ![alt text](<imgs/Screenshot 2025-02-15 003844.png>)
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ## Table of Contents
 
+- [License](#license)
+  
   
   ## License
   
@@ -18,6 +22,7 @@
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   https://opensource.org/licenses/MIT
+
 
   ## Questions
 
